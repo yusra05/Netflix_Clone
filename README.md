@@ -1,5 +1,7 @@
 # Netflix Clone
 
+[Visit here.....](https://nf-c.netlify.app/)  
+
 ![image](https://github.com/yusra05/Netflix_Clone/assets/112852251/2324a578-1a20-4865-b0ce-86048f5c9875)
 
 A clone of the popular streaming platform Netflix, created using HTML, CSS, JavaScript.
